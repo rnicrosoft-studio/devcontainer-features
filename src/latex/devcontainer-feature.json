@@ -2,7 +2,7 @@
     "name": "LaTeX Workshop",
     "id": "latex",
     "version": "0.0.1",
-    "description": "Installs Tex Live latex compiler with tlmgr package manager, alongside LaTeX Workshop extension",
+    "description": "Installs Tex Live latex compiler with tlmgr package manager, alongside LaTeX Workshop extension. Based on https://github.com/prulloac/devcontainer-features/tree/main/src/latex",
     "documentationURL": "https://github.com/prulloac/devcontainer-features/tree/main/src/latex",
     "options": {
         "scheme": {
