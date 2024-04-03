@@ -1,0 +1,30 @@
+{
+    "minimal_texlive": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "latex": {
+                "scheme": "minimal"
+            }
+        },
+        "remoteUser": "vscode"
+    },
+    "additional_packages": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "latex": {
+                "packages": "chktex, babel-german babel-french"
+            }
+        },
+        "remoteUser": "vscode"
+    },
+    "custom_mirror": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "latex": {
+                "scheme": "minimal",
+                "mirror": "https://mirrors.mit.edu/CTAN/systems/texlive/tlnet/"
+            }
+        },
+        "remoteUser": "vscode"
+    }
+}
