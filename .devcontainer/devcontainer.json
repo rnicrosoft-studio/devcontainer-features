@@ -13,6 +13,7 @@
                 ]
             },
             "extensions": [
+                "adam-bender.commit-message-editor",
                 "mads-hartmann.bash-ide-vscode"
             ]
         }
