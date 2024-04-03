@@ -1,7 +1,7 @@
 
 # LaTeX Workshop (latex)
 
-Installs Tex Live latex compiler with tlmgr package manager, alongside LaTeX Workshop extension
+Installs Tex Live latex compiler with tlmgr package manager, alongside LaTeX Workshop extension. Based on https://github.com/prulloac/devcontainer-features/tree/main/src/latex
 
 ## Example Usage
 
